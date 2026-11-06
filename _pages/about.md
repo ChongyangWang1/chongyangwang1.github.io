@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## About me
-I am a master student in the School of Computer Science and Technology, Fuzhou University.
+I am a master student in the School of Physics and Information Engineering, Fuzhou University.
 My research focuses on medical artificial intelligence, MRI image analysis, deep learning and computer vision.
 
 ### Research Interests
